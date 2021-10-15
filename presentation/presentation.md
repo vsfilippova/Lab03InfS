@@ -41,13 +41,13 @@ section-titles: true
 
 Заполнила таблицу 3.1.
 
-![Таблица 3.1](../scr/table 3.1.jpg){ #fig:002 width=70% }
+![Таблица 3.1](https://github.com/vsfilippova/Lab03InfS/blob/main/scr/table%203.1.jpg){ #fig:002 width=70% }
 
 ## Результаты выполнения лабораторной работы. Часть 3
 
 Заполнила таблицу 3.2.
 
-![Таблица 3.2](../scr/table 3.2.jpg){ #fig:003 width=70% }
+![Таблица 3.2](https://github.com/vsfilippova/Lab03InfS/blob/main/scr/table%203.2.jpg){ #fig:003 width=70% }
 
 ## Выводы
 
